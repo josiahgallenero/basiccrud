@@ -1,3 +1,3 @@
-Credits to Josiah Danielle Gallenero
+Credits to Josiah Danielle Gallenero / Basic CRUD (Create, Read, Update, Delete) User Management
 
-you can download zip and extract, then the database sql import to PhpMyAdmin Xammp include id, email, username and password no need to create database and table.
+You can download zip and extract, then the database sql import to PhpMyAdmin Xammp include the id, email, username and password no need to create database and table.
